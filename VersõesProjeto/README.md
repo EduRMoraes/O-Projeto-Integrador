@@ -1,8 +1,8 @@
 ---
 
-## 📁 Estrutura de Versionamento (`Versoes/`)
+## 📁 Estrutura de Versionamento (`VersõesProjeto/`)
 
-A pasta `Versoes/` é destinada ao armazenamento do histórico de lançamentos (*releases*), notas de versão (*change logs*) e compilações executáveis da **Biblioteca Virtual TG Americana**.
+A pasta `VersõesProjeto/` é destinada ao armazenamento do histórico de lançamentos (*releases*), notas de versão (*change logs*) e compilações executáveis da **Biblioteca Virtual TG Americana**.
 
 Seu principal objetivo é garantir o rastreamento evolutivo do sistema, documentando o progresso das funcionalidades, correções e melhorias ao longo das Sprints do Projeto Integrador.
 
@@ -14,7 +14,7 @@ O projeto segue o padrão `MAJOR.MINOR.PATCH` (`vX.Y.Z`):
 
 ### 📂 Organização da Pasta
 ```text
-📁 Versoes/
+📁 VersõesProjeto/
 │
 ├── 📁 v0.1.0-alpha/         # Protótipo inicial e validação da interface
 │   ├── 📄 CHANGELOG.md       # Detalhamento de alterações da versão
