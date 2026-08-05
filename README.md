@@ -1,100 +1,43 @@
-# 📚 Projeto Integrador - Biblioteca Virtual TG Americana
+# 📚 Biblioteca Virtual — Tiro de Guerra de Americana
 
-> Sistema desktop desenvolvido em **C# (Windows Forms)** com o objetivo de digitalizar, organizar e facilitar o acesso ao acervo da Biblioteca do TG de Americana.
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Curso](https://img.shields.io/badge/UNISAL-Engenharia%20da%20Computa%C3%A7%C3%A3o-blue)
+![Semestre](https://img.shields.io/badge/Projeto%20Integrador-3%C2%BA%20e%204%C2%BA%20Semestres-green)
 
----
-
-## 📖 Sobre o Projeto
-
-O **Projeto Integrador** dos **3º e 4º semestres** do curso de Engenharia da Computação tem como objetivo o desenvolvimento de uma **Biblioteca Virtual** para o **Tiro de Guerra de Americana (TG Americana)**.
-
-A proposta consiste em criar uma aplicação desktop capaz de centralizar e organizar digitalmente o acervo da biblioteca física, permitindo que seus materiais sejam consultados de forma rápida, intuitiva e segura.
-
-O sistema foi projetado para funcionar **100% offline**, eliminando a necessidade de conexão com a internet e tornando a solução adequada para ambientes com infraestrutura limitada.
-
-Além da consulta ao acervo, a aplicação busca facilitar o gerenciamento de registros, documentos e demais informações da biblioteca, promovendo maior organização, preservação do conteúdo e eficiência na administração do acervo.
-
-Este projeto proporciona aos integrantes da equipe a aplicação prática dos conhecimentos adquiridos durante a graduação, utilizando conceitos de Engenharia de Software, desenvolvimento desktop, versionamento de código, documentação técnica e metodologias ágeis.
+Projeto acadêmico desenvolvido para criar um sistema desktop de gerenciamento e consulta para o acervo da **Biblioteca do Tiro de Guerra de Americana**. A aplicação é construída em **C# (.NET / Windows Forms)** com suporte a operação **100% offline**.
 
 ---
 
-## 🎯 Objetivos
+## 📂 Estrutura do Repositório
 
-- Desenvolver uma aplicação desktop utilizando **C# e Windows Forms**;
-- Digitalizar e organizar o acervo da biblioteca do TG de Americana;
-- Facilitar o acesso às obras e documentos de forma offline;
-- Melhorar o controle e a organização dos registros da biblioteca;
-- Aplicar conceitos de Engenharia de Software em um projeto real;
-- Trabalhar de forma colaborativa utilizando metodologias ágeis.
+O projeto está organizado nos seguintes diretórios técnicos:
 
----
-
-## ⚙️ Tecnologias Utilizadas
-
-### Linguagens
-- C#
-
-### Framework
-- .NET Windows Forms
-
-### Ferramentas
-- Visual Studio
-- GitHub
-- Notion
+| Pasta | Descrição |
+| :--- | :--- |
+| **`Apresentacoes/`** | Slides, roteiros de apresentação e simulações para a banca acadêmica. |
+| **`Documentação/`** | Requisitos (RF/RNF), diagramas UML, modelagem de banco de dados e gestão Scrum. |
+| **`Pesquisas/`** | Estudo comparativo (Sofia/Pergamum) e levantamento de necessidades do TG. |
+| **`Prototipos/`** | Telas de alta fidelidade (Figma), design de interface e fluxos de IHC/UX. |
+| **`Testes/`** | Planos de teste, casos de validação funcional e relatórios de bugs. |
+| **`VersõesProjeto/`** | Histórico de releases, changelogs e empacotamento das versões executáveis. |
 
 ---
 
-## 📋 Metodologia
+## 🛠️ Tecnologias e Ferramentas
 
-O desenvolvimento do projeto segue a metodologia ágil **Scrum**, permitindo maior organização, colaboração e acompanhamento das atividades durante todo o ciclo de desenvolvimento.
-
-As atividades são organizadas em **Sprints**, contendo:
-
-- Planejamento das entregas;
-- Refinamento das tarefas;
-- Desenvolvimento;
-- Revisão;
-- Documentação;
-- Validação das funcionalidades.
-
-Todo o gerenciamento do projeto é realizado através do **Notion**, onde são mantidos:
-
-- Backlog do Produto;
-- Backlog da Sprint;
-- Roadmap;
-- Cronograma;
-- Atas de reunião;
-- Documentações;
-- Registro das entregas.
+- **Linguagem / Framework**: C# (.NET Framework / Windows Forms)
+- **Modelagem & Diagramas**: Draw.io / Astah
+- **Prototipagem**: Figma
+- **Gestão de Tarefas**: Notion
+- **Versionamento**: GitHub
 
 ---
 
----
+## 👥 Equipe do Projeto
 
-## 🚀 Funcionalidades Previstas
-
-- Cadastro de livros
-- Consulta ao acervo
-- Pesquisa por título, autor e categoria
-- Organização digital dos materiais
-- Registro e gerenciamento de documentos
-- Interface intuitiva para utilização local
-- Funcionamento sem conexão com a internet
-
----
-
-## 👥 Equipe
-
-Projeto desenvolvido pelos alunos de Engenharia da Computação da **UNISAL**, como parte da disciplina de **Projeto Integrador**.
-
----
-
-## 📌 Status do Projeto
-
-🚧 Em desenvolvimento.
-
----
-
-## 📄 Licença
-
-Projeto desenvolvido exclusivamente para fins acadêmicos.
+- **Eduardo Moraes** — *Liderança, QA & IHC/UX*
+- **Caio** — *Desenvolvimento & Validações*
+- **João Casemiro** — *Documentação Acadêmica & Referencial Teórico*
+- **Gustavo** — *Pesquisa de Recursos & Apresentação*
+- **João Furlan** — *Arquitetura & Diagramas UML/DER*
+- **Guilherme** — *Mapeamento de Processos & Dificuldades*
