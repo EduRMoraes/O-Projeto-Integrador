@@ -17,11 +17,11 @@ Cada integrante é responsável por defender um bloco temático alinhado com as 
 
 | Integrante | Bloco Temático | Tópicos Cobertos | Tempo Est. |
 | :--- | :--- | :--- | :---: |
-| **Eduardo R. Moraes** | Introdução, QA & IHC/UX | Contextualização do TG, problema, proposta de solução e prototipagem visual. | ~3 min |
+| **Eduardo M.** | Introdução, QA & IHC/UX | Contextualização do TG, problema, proposta de solução e prototipagem visual. | ~3 min |
 | **João F.** | Arquitetura & Engenharia | Diagrama de Casos de Uso, Diagrama de Classes e Modelagem do Banco (DER). | ~3 min |
 | **Caio** | Desenvolvimento & Regras | Implementação do sistema desktop em C#, lógica de empréstimos e logs. | ~3 min |
 | **Guilherme / Gustavo** | Pesquisa & Testes | Benchmark (Sofia/Pergamum), plano de testes, erros evitados e validações. | ~3 min |
-| **João Casemiro** | Conclusão & Acadêmico | Fundamentação teórica, normas ABNT, considerações finais e encerramento. | ~2 min |
+| **João L.** | Conclusão & Acadêmico | Fundamentação teórica, normas ABNT, considerações finais e encerramento. | ~2 min |
 
 ---
 
